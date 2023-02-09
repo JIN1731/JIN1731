@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:36ffa6,50:c471ed,100:f64f59&height=200&section=header&text=Soojin's%20github&fontColor=ffffff&fontSize=30&fontAlignY=39)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=200&section=header&text=Soojin's%20github&fontColor=ffffff&fontSize=30&fontAlignY=39)
   
  ## :email: Contact :email:
   [![](https://img.shields.io/badge/Email-D0A9F5?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hasoojin1731@gmail.com) 
