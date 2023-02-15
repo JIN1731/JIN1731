@@ -2,8 +2,9 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=200&section=header&text=Soojin's%20github&fontColor=ffffff&fontSize=30&fontAlignY=39)
   
- ## :email: Contact :email:
+ ## :wave: Contact :wave:
   [![](https://img.shields.io/badge/Email-D0A9F5?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hasoojin1731@gmail.com) 
+  [![](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=Replit&logoColor=white)](mailto:hasoojin1731@gmail.com) 
   
   
 <br>
